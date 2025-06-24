@@ -1,6 +1,6 @@
 # 🛒 Amazon Customer Churn Analysis — Power BI | Python | SQL | Excel
 
-![Amazon Churn Dashboard](./Screenshot_2025-06-09_043624.jpg)
+![Amazon Churn Dashboard](https://github.com/OkaforChukwuka/Amazon-Customer-Churn-Analysis-python-sql-excel-powerbi/blob/main/Screenshot%202025-06-09%20043624.jpg?raw=true)
 
 ## 📌 Overview
 This project analyzes customer churn trends and behavior for an e-commerce environment modeled after Amazon. By leveraging Python, SQL, Excel, and Power BI, the dashboard reveals patterns in satisfaction, gender-based purchase frequency, and churn risk — key for customer retention strategies.
